@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "325",
+      "nama": "Alfian",
+      "jurusan": "Teknik Informatika",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nama": "Abdi",
+      "nim": "331",
+      "jurusan": "Teknik Informatika"
+    },
+    {
+      "nim": "12298",
+      "nama": "M. Fikri",
+      "jurusan": "Teknik Informatika",
+      "id": 3
+    }
+  ]
+}
